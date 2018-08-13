@@ -534,7 +534,7 @@
             "alwaysOn": true,
             "dbType": "None",
             "debugSetting": { "detailLevel": "requestContent, responseContent" },
-            "packageUri": "https://github.com/GowthamChalla/CRMArchival/raw/master/Microsoft.Dynamics.Obfuscation.WebSite.zip"
+            "packageUri": "https://github.com/GowthamChalla/ObfuscationArtifacts/raw/master/Microsoft.Dynamics.Obfuscation.WebSite.zip"
           },
           "dependsOn": [ "[concat('Microsoft.Web/sites/', parameters('webSiteName'))]" ]
         }
