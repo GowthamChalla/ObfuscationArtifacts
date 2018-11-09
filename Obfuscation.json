@@ -4,8 +4,6 @@
   "parameters": {
     "CRMBaseURL": {
       "type": "string",
-      "minLength": 1,
-      "maxLength": 50,
       "metadata": { "description": "CRM Org url e.g., https://xxxx.crm.dynamics.com" }
     },
     "CRMUsername": {
